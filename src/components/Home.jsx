@@ -1,6 +1,7 @@
 import React from "react";
 
 const Home = () => {
+  console.log("Home")
   return (
     <div>
      <section className="bg-center bg-no-repeat bg-[url('https://flowbite.s3.amazonaws.com/docs/jumbotron/conference.jpg')] bg-gray-700 bg-blend-multiply">
